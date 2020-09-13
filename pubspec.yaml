@@ -1,6 +1,6 @@
 name: get_random_from_list
 description: An extension method for the List class that retrieves a random element from the list.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/james-alex/get_random_from_list
 
 environment:
